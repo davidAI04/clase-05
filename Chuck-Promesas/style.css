@@ -1,0 +1,9 @@
+body{
+    margin: 20px;
+}
+#textChuck{
+    width: 80%;	
+    border: 5px solid #000;
+    border-radius: 10px;	
+}
+   
